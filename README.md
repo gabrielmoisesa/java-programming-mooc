@@ -3,8 +3,10 @@
 My solutions to the exercises from the [Java Programming MOOC](https://java-programming.mooc.fi/) 
 by the University of Helsinki (MOOC.fi).
 
-<img src="https://dbgi97grppr1g.cloudfront.net/cmbt50bj904249tz8fylndfli/article-editor-upload_9c651269-bd7e-4651-b586-5684d89984ca.png" alt="University of Helsinki logo" height="70" style="background-color: white;">
-<img src="https://java-programming.mooc.fi/static/moocfi-logo-bw-40fb2db8a1b68fff676338919b31ae7c.png" alt="MOOC logo" height="70">
+<p float="left">
+  <img src="https://dbgi97grppr1g.cloudfront.net/cmbt50bj904249tz8fylndfli/article-editor-upload_9c651269-bd7e-4651-b586-5684d89984ca.png" alt="University of Helsinki logo" height="100">
+  <img src="https://java-programming.mooc.fi/static/moocfi-logo-bw-40fb2db8a1b68fff676338919b31ae7c.png" alt="MOOC logo" height="100">
+</p>
 
 ## About the course
 
